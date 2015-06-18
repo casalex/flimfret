@@ -29,11 +29,14 @@ To use (with caution), simply navigate to /yourfolder (seen above) and run the f
     
 Alternatively, make a script such as the one below and run it in /yourfolder.
 
+```
 #!/path/to/python
 
 import flimfret
 
 flimfret.pipeline()
+
+```
 
 You will be prompted to enter the names of your celltypes--make sure these are spelled correctly!
 
