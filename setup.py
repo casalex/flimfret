@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='flimfret',
-      version='0.2',
+      version='0.3',
       description='Pipeline for FLIM FRET analysis',
       url='http://github.com/casalex/flimfret',
       author='Alex Casella',
